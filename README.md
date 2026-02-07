@@ -7,7 +7,7 @@ Valentine's letter
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Be My Valentine Baby?</title>
     <link rel="stylesheet" href="css/style.css">
-    <!-- Icon -->
+    <!-- d7e2c2576131eda7ca73a8599f48d29a.jpg -->
     <link rel="Icon" href="images/heart.gif" type="image/gif">
 </head>
 <body>
@@ -25,7 +25,7 @@ Valentine's letter
 
             <!-- Step 2 -->
         <div class="step" id="step2">
-                <img src="images/are u sure.gif" alt="Cute Cat in Love" class="cat-img">
+                <img src="images/are u sure.?" alt="Cute Cat in Love" class="Snaptik.app_742433325352958695211.jpg">
                 <h1>Are you sure you want to be my valentine? 😼</h1>
                 <div class="buttons">
                 <button class="btn btn-yes" onclick="goToStep3()">Yes, 100% Sure</button>
